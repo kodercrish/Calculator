@@ -1,1 +1,4 @@
-- [Docker Repository url](https://hub.docker.com/repository/docker/kodercrish/imt2023134/general)
+Docker Repository url:
+   ```bash
+     https://hub.docker.com/repository/docker/kodercrish/imt2023134/general
+   ```
